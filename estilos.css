@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    background-color: crimson;
+}
+
+
+h1.ladrillo {
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+}
+
+button.Alerta {
+    background-color: crimson;
+    color: white;
+    font-size: 30px;
+    border: none;
+    text-decoration: underline;
+
+}
